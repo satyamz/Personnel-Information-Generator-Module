@@ -131,6 +131,6 @@ void MainWindow ::clear1()   /*Function to clear all the entries */
     this->ui.lineEdit_7->clear();
 
 
-
+//This ends here 
 
 }
