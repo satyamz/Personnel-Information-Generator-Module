@@ -31,7 +31,8 @@
 #ifndef MainWindow_H
 #define MainWindow_H
 
-#include <QtGui/QMainWindow>
+//#include <QtGui/QMainWindow>
+#include <QtWidgets/QMainWindow>
 #include "ui_mainwindow.h"
 
 
